@@ -51,19 +51,8 @@ Usage
 Navigate to the home page.
 Upload an image file.
 The application will process the image and return it with the background removed.
-# Project Structure
 
-
-Deploy-a-Simple-Web-Application/
-│
-├── app.py                # Main Flask application
-├── templates/            # HTML templates for the web interface
-│   └── index.html        # Main page for the app
-├── static/               # Static assets (CSS, JS, etc.)
-├── requirements.txt      # Python dependencies
-└── README.md             # Project documentation
-
-Technologies Used
+# Technologies Used
 Flask: Lightweight web framework for Python.
 rembg: Library for removing image backgrounds.
 Pillow: Python Imaging Library for image processing.
