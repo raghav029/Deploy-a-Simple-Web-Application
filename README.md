@@ -52,7 +52,7 @@ Navigate to the home page.
 Upload an image file.
 The application will process the image and return it with the background removed.
 # Project Structure
-php
+
 
 Deploy-a-Simple-Web-Application/
 │
@@ -62,6 +62,7 @@ Deploy-a-Simple-Web-Application/
 ├── static/               # Static assets (CSS, JS, etc.)
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
+
 Technologies Used
 Flask: Lightweight web framework for Python.
 rembg: Library for removing image backgrounds.
