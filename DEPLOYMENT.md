@@ -27,4 +27,4 @@ Once deployed, Render provides a public URL where your application is live.
 
 # Public URL
 Your application is now live and can be accessed at:
-https://deploy-a-simple-web-application.onrender.com/
+https://deploy-a-simple-web-application.onrender.com
